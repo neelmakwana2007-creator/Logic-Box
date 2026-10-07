@@ -14,8 +14,8 @@ while True:
 
     elif choice == "2":
         start = int(input("Enter the starting number:-"))
-        end = int(input("Enter the ending number:-"))
-        total_sum = sum(range(start, end + 1))      #minore use AI
+        end = int(input("Enter the ending num:-"))
+        total_sum = sum(range(start, end + 1))      # minore use AI
         print("total sum is:-", total_sum)
 
     elif choice == "3":
@@ -23,4 +23,4 @@ while True:
         break
 
     else:
-        print("Invalid number...please enter a number 1 , 2 or 3")
+        print("Invalid number...please enter a number 1 , 2, or 3")

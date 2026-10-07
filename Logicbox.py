@@ -1,7 +1,7 @@
 while True:
-    print("\nSelect an option:")
+    print("\nSelect  option:")
     print("1. Generate a Pattern")
-    print("2. Analyze a Range of Numbers")
+    print("2. Analized a Range of Numbers")
     print("3. Exit")
 
     choice = input("\nEnter your choice:")
